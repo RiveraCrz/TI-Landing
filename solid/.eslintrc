@@ -1,0 +1,10 @@
+{
+  "extends": "standard",
+  "globals": {
+    "ScrollReveal": "readonly",
+    "anime": "readonly"
+  },
+  "rules": {
+    "semi": ["error", "always"]
+  }
+}
